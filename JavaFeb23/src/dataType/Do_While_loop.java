@@ -4,7 +4,8 @@ public class Do_While_loop {
 
 	public static void main(String[] args) {
 		
-		String place ="Brooklyn";
+		// Made Changes to the place
+		String place ="The bronx";
 				int start = 1;
 				
 				do

@@ -4,7 +4,9 @@ public class While_Loop {
 
 	public static void main(String[] args) {
 		
-		String place ="Brooklyn";
+		//Change the location
+		
+		String place ="Queens";
 		
 		int start = 1;
 		
