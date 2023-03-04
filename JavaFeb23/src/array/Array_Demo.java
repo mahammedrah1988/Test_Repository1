@@ -4,6 +4,7 @@ public class Array_Demo {
 
 	public static void main(String[] args) {
 		
+		//This is a new change
 		//declaring array
 		
 		String []  myArray = new String[3];
