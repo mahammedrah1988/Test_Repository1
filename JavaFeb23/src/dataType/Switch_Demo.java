@@ -55,7 +55,7 @@ public class Switch_Demo {
 			break;		
 			
 			default:
-			System.out.println("Sorrt there is no day");
+			System.out.println("Sorry there is no day");
 			
 		
 		}

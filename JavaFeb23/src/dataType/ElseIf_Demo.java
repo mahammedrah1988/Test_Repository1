@@ -24,7 +24,8 @@ public class ElseIf_Demo {
 		{
 			System.out.println("It is high time to get married");
 		} 
-		else if (age > 80 && age <= 129)
+		else 
+			if (age > 80 && age <= 129)
 		{
 			System.out.println("Pray to God that you are in good health");
 		}
